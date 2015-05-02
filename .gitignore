@@ -1,0 +1,9 @@
+
+
+# ignore pyc
+*.pyc
+
+
+# Mac OS
+.DS_Store
+
